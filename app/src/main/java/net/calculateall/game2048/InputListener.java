@@ -1,4 +1,4 @@
-package com.calculateall.2048;
+package net.calculateall.game2048;
 
 import android.app.AlertDialog;
 import android.content.DialogInterface;
